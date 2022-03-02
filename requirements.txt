@@ -1,0 +1,8 @@
+voila
+pandas
+ipywidgets
+plotly
+numpy
+scikit-image
+scipy
+Pillow
